@@ -1,0 +1,14 @@
+Name: xorg-x11-proto-xf86rushproto
+Summary: X.Org X11 Protocol xf86rushproto
+Version: 1.1.2
+Release: 0
+Group: Development/System
+License: MIT
+URL: http://www.x.org
+Sources:
+    - http://xorg.freedesktop.org/releases/individual/proto/xf86rushproto-%{version}.tar.bz2
+
+Provides: xf86rushproto
+Configure: configure
+ConfigOptions:
+    - --libdir=%{_datadir}

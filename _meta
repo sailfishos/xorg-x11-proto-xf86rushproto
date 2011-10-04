@@ -1,0 +1,9 @@
+<package project="Mer:Trunk:Base" name="xorg-x11-proto-xf86rushproto">
+  <title>X.Org X11 Protocol xf86rushproto</title>
+  <description>Description: %{summary}
+
+
+
+</description>
+  <url>http://www.x.org</url>
+</package>
